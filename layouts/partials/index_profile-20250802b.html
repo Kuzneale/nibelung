@@ -1,0 +1,64 @@
+<div class="profile">
+    {{- with site.Params.profileMode }}
+    <div class="profile_inner">
+
+      <ul style="list-style-type:none">
+         <div style="float; width:600px;"> </div>
+            <img src="/images/hans-hotter-wotan-walkure-1955.jpg" style="max-height: 200px; width: auto;" >
+         <div style="float:right; text-align:left; margin-left: 0px; margin-top:-180px; width: 400px; height: 200px;"> 
+            <h1>{{ .title }}</h1>
+            <h4>           
+            Text je kde a jak muze byt siroky. Proc je to tak dole?
+            <br>
+            A co zde
+            </h4>           
+         </div>
+      </ul>
+
+        {{- partial "social_icons.html" -}}
+
+        {{ with site.GetPage "section" "posts" }}
+            <ul style="list-style-type:none">
+              {{ range .Pages }}
+              <li>
+                <div style="float:left; width=400px;">
+                  <a href="{{ .RelPermalink }}" class="image">
+                  {{ with .Resources.Get "images/cover.jpg" }}
+                    <img src="{{ .RelPermalink }}" style="max-width: 400px; height: auto;" >
+                  {{ end }}
+                  </a>
+                </div>
+                <div style="float:right; text-align:left; margin-left:20px; margin-top:20px; width=200;">
+                    <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+                    <br>
+                    Text je zde a co udela
+                </div>
+                <div style="clear:both;"></div>
+                <br>
+              </li>
+              {{ end }}
+            </ul>
+          {{ end }}
+
+        {{- with .buttons }}
+        <div class="buttons">
+            {{- range . }}
+            <a class="button" href="{{ trim .url " " }}" rel="noopener" title="{{ .name }}">
+                <span class="button-inner">
+                    {{ .name }}
+                    {{- if (findRE "://" .url) }}&nbsp;
+                    <svg fill="none" shape-rendering="geometricPrecision" stroke="currentColor" stroke-linecap="round"
+                        stroke-linejoin="round" stroke-width="2.5" viewBox="0 0 24 24" height="12" width="14">
+                        <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6"></path>
+                        <path d="M15 3h6v6"></path>
+                        <path d="M10 14L21 3"></path>
+                    </svg>
+                    {{- end }}
+                </span>
+            </a>
+            {{- end }}
+        </div>
+        {{- end }}
+    </div>
+    {{- end}}
+</div>

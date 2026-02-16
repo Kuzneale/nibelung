@@ -1,0 +1,48 @@
+
+Hello, 
+
+on Monday, we will talk about your future work and what to with abmSHARE, 
+
+* but most importantly(!) you are the internet website expert and I will need your help to setup a new website, this time about concerts and opera (do not laugh). With my friends we want to make it working. We have hugo develed public files and we need your help how to copy the hugo public files to a godaddy.com domain we already have.
+
+https://www.godaddy.com/
+
+I am sure it is simple but this is the goal of February to accomplish!
+Maybe it will help if you can look at the godaddy site to understand what they use.
+
+
+* I still cannot connect to the website at our server to update the files for the share website. 
+I am using filezilla, but it does not work. at the it department they use WinSCP, is there a way how to use this in linux?
+
+* I am attaching a protocol for biomarker study we are planning to collect in 2027 and this might be a good work for you, we need someone who understands all these biomarkers and so on. I am also attaching what was done in HRS and other projects. Our protocol is just for a public procurement but we will need to specify what kind of biomarkers to collect. 
+
+
+see you Monday
+best
+
+R
+
+
+
+
+
+
+https://nibelung.net/
+
+
+
+
+nibelung.net
+r.b.baloun@gmail.com
+hesloUNI1!
+
+
+
+
+
+
+
+
+
+
+
