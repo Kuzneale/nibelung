@@ -1,0 +1,24 @@
+https://michaelbrunger.com/hugo-papermod-theme/
+
+
+hugo new site wotan --format yaml
+cd wotan
+
+git clone https://github.com/adityatelange/hugo-PaperMod themes/PaperMod --depth=1
+
+
+UPDATE: Inside the folder of your Hugo site MyFreshWebsite, run:
+
+cd themes/PaperMod
+git pull
+
+In hugo.yml add:
+
+theme: PaperMod
+
+hugo server -D
+hugo --minify:
+
+
+
+https://nesin.io/blog/hugo-show-recent-posts-homepage

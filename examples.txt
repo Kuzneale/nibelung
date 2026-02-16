@@ -1,0 +1,8 @@
+
+Kdo je autor {{% param author %}}
+
+Today is {{< today_date >}}.
+
+{{< creators >}}
+
+
