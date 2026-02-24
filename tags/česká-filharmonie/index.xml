@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Česká Filharmonie on Nibelung</title>
-    <link>http://localhost:1313/tags/%C4%8Desk%C3%A1-filharmonie/</link>
+    <link>https://nibelung.net/tags/%C4%8Desk%C3%A1-filharmonie/</link>
     <description>Recent content in Česká Filharmonie on Nibelung</description>
     <image>
       <title>Nibelung</title>
-      <url>http://localhost:1313/images/hans-hotter-wotan-walkure-1955.jpg</url>
-      <link>http://localhost:1313/images/hans-hotter-wotan-walkure-1955.jpg</link>
+      <url>https://nibelung.net/images/hans-hotter-wotan-walkure-1955.jpg</url>
+      <link>https://nibelung.net/images/hans-hotter-wotan-walkure-1955.jpg</link>
     </image>
     <generator>Hugo -- 0.147.2</generator>
     <language>cs</language>
-    <atom:link href="http://localhost:1313/tags/%C4%8Desk%C3%A1-filharmonie/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://nibelung.net/tags/%C4%8Desk%C3%A1-filharmonie/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tannhauser</title>
-      <link>http://localhost:1313/program/20260219-cf/</link>
+      <link>https://nibelung.net/program/20260219-cf/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/program/20260219-cf/</guid>
+      <guid>https://nibelung.net/program/20260219-cf/</guid>
       <description>&lt;p&gt;Fleur Barron, mezzosoprán
 Semjon Byčkov, dirigent
 Česká filharmonie&lt;/p&gt;
@@ -42,9 +42,9 @@ Semjon Byčkov, dirigent
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/program/20260219-cf/images/photo-3.jpg&#34;&gt;
-&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/program/20260219-cf/images/photo-1.webp&#34;&gt;
-&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/program/20260219-cf/images/photo-4.webp&#34;&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://nibelung.net/program/20260219-cf/images/photo-3.jpg&#34;&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;https://nibelung.net/program/20260219-cf/images/photo-1.webp&#34;&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;https://nibelung.net/program/20260219-cf/images/photo-4.webp&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

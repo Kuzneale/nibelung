@@ -2,197 +2,197 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>témata on Nibelung</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://nibelung.net/tags/</link>
     <description>Recent content in témata on Nibelung</description>
     <image>
       <title>Nibelung</title>
-      <url>http://localhost:1313/images/hans-hotter-wotan-walkure-1955.jpg</url>
-      <link>http://localhost:1313/images/hans-hotter-wotan-walkure-1955.jpg</link>
+      <url>https://nibelung.net/images/hans-hotter-wotan-walkure-1955.jpg</url>
+      <link>https://nibelung.net/images/hans-hotter-wotan-walkure-1955.jpg</link>
     </image>
     <generator>Hugo -- 0.147.2</generator>
     <language>cs</language>
     <lastBuildDate>Mon, 26 Jan 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://nibelung.net/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Berlin</title>
-      <link>http://localhost:1313/tags/berlin/</link>
+      <link>https://nibelung.net/tags/berlin/</link>
       <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/berlin/</guid>
+      <guid>https://nibelung.net/tags/berlin/</guid>
       <description></description>
     </item>
     <item>
       <title>Brahms</title>
-      <link>http://localhost:1313/tags/brahms/</link>
+      <link>https://nibelung.net/tags/brahms/</link>
       <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/brahms/</guid>
+      <guid>https://nibelung.net/tags/brahms/</guid>
       <description></description>
     </item>
     <item>
       <title>Koncert</title>
-      <link>http://localhost:1313/tags/koncert/</link>
+      <link>https://nibelung.net/tags/koncert/</link>
       <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/koncert/</guid>
+      <guid>https://nibelung.net/tags/koncert/</guid>
       <description></description>
     </item>
     <item>
       <title>Thielemann</title>
-      <link>http://localhost:1313/tags/thielemann/</link>
+      <link>https://nibelung.net/tags/thielemann/</link>
       <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/thielemann/</guid>
+      <guid>https://nibelung.net/tags/thielemann/</guid>
       <description></description>
     </item>
     <item>
       <title>Lohengrin</title>
-      <link>http://localhost:1313/tags/lohengrin/</link>
+      <link>https://nibelung.net/tags/lohengrin/</link>
       <pubDate>Sun, 25 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/lohengrin/</guid>
+      <guid>https://nibelung.net/tags/lohengrin/</guid>
       <description></description>
     </item>
     <item>
       <title>Opera</title>
-      <link>http://localhost:1313/tags/opera/</link>
+      <link>https://nibelung.net/tags/opera/</link>
       <pubDate>Sun, 25 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/opera/</guid>
+      <guid>https://nibelung.net/tags/opera/</guid>
       <description></description>
     </item>
     <item>
       <title>Wagner</title>
-      <link>http://localhost:1313/tags/wagner/</link>
+      <link>https://nibelung.net/tags/wagner/</link>
       <pubDate>Sun, 25 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/wagner/</guid>
+      <guid>https://nibelung.net/tags/wagner/</guid>
       <description></description>
     </item>
     <item>
       <title>Liceu</title>
-      <link>http://localhost:1313/tags/liceu/</link>
+      <link>https://nibelung.net/tags/liceu/</link>
       <pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/liceu/</guid>
+      <guid>https://nibelung.net/tags/liceu/</guid>
       <description></description>
     </item>
     <item>
       <title>Tristan</title>
-      <link>http://localhost:1313/tags/tristan/</link>
+      <link>https://nibelung.net/tags/tristan/</link>
       <pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/tristan/</guid>
+      <guid>https://nibelung.net/tags/tristan/</guid>
       <description></description>
     </item>
     <item>
       <title>Rheingold</title>
-      <link>http://localhost:1313/tags/rheingold/</link>
+      <link>https://nibelung.net/tags/rheingold/</link>
       <pubDate>Fri, 03 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/rheingold/</guid>
+      <guid>https://nibelung.net/tags/rheingold/</guid>
       <description></description>
     </item>
     <item>
       <title>Staatsoper</title>
-      <link>http://localhost:1313/tags/staatsoper/</link>
+      <link>https://nibelung.net/tags/staatsoper/</link>
       <pubDate>Fri, 03 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/staatsoper/</guid>
+      <guid>https://nibelung.net/tags/staatsoper/</guid>
       <description></description>
     </item>
     <item>
       <title>Siegfried</title>
-      <link>http://localhost:1313/tags/siegfried/</link>
+      <link>https://nibelung.net/tags/siegfried/</link>
       <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/siegfried/</guid>
+      <guid>https://nibelung.net/tags/siegfried/</guid>
       <description></description>
     </item>
     <item>
       <title>Bayreuth</title>
-      <link>http://localhost:1313/tags/bayreuth/</link>
+      <link>https://nibelung.net/tags/bayreuth/</link>
       <pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/bayreuth/</guid>
+      <guid>https://nibelung.net/tags/bayreuth/</guid>
       <description></description>
     </item>
     <item>
       <title>Bruckner</title>
-      <link>http://localhost:1313/tags/bruckner/</link>
+      <link>https://nibelung.net/tags/bruckner/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/bruckner/</guid>
+      <guid>https://nibelung.net/tags/bruckner/</guid>
       <description></description>
     </item>
     <item>
       <title>Byčkov</title>
-      <link>http://localhost:1313/tags/by%C4%8Dkov/</link>
+      <link>https://nibelung.net/tags/by%C4%8Dkov/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/by%C4%8Dkov/</guid>
+      <guid>https://nibelung.net/tags/by%C4%8Dkov/</guid>
       <description></description>
     </item>
     <item>
       <title>Česká Filharmonie</title>
-      <link>http://localhost:1313/tags/%C4%8Desk%C3%A1-filharmonie/</link>
+      <link>https://nibelung.net/tags/%C4%8Desk%C3%A1-filharmonie/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/%C4%8Desk%C3%A1-filharmonie/</guid>
+      <guid>https://nibelung.net/tags/%C4%8Desk%C3%A1-filharmonie/</guid>
       <description></description>
     </item>
     <item>
       <title>MET</title>
-      <link>http://localhost:1313/tags/met/</link>
+      <link>https://nibelung.net/tags/met/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/met/</guid>
+      <guid>https://nibelung.net/tags/met/</guid>
       <description></description>
     </item>
     <item>
       <title>ND</title>
-      <link>http://localhost:1313/tags/nd/</link>
+      <link>https://nibelung.net/tags/nd/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/nd/</guid>
+      <guid>https://nibelung.net/tags/nd/</guid>
       <description></description>
     </item>
     <item>
       <title>Parsifal</title>
-      <link>http://localhost:1313/tags/parsifal/</link>
+      <link>https://nibelung.net/tags/parsifal/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/parsifal/</guid>
+      <guid>https://nibelung.net/tags/parsifal/</guid>
       <description></description>
     </item>
     <item>
       <title>Purcell</title>
-      <link>http://localhost:1313/tags/purcell/</link>
+      <link>https://nibelung.net/tags/purcell/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/purcell/</guid>
+      <guid>https://nibelung.net/tags/purcell/</guid>
       <description></description>
     </item>
     <item>
       <title>Rienzi</title>
-      <link>http://localhost:1313/tags/rienzi/</link>
+      <link>https://nibelung.net/tags/rienzi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/rienzi/</guid>
+      <guid>https://nibelung.net/tags/rienzi/</guid>
       <description></description>
     </item>
     <item>
       <title>Ring</title>
-      <link>http://localhost:1313/tags/ring/</link>
+      <link>https://nibelung.net/tags/ring/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/ring/</guid>
+      <guid>https://nibelung.net/tags/ring/</guid>
       <description></description>
     </item>
     <item>
       <title>Rosenkavalier</title>
-      <link>http://localhost:1313/tags/rosenkavalier/</link>
+      <link>https://nibelung.net/tags/rosenkavalier/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/rosenkavalier/</guid>
+      <guid>https://nibelung.net/tags/rosenkavalier/</guid>
       <description></description>
     </item>
     <item>
       <title>Semper</title>
-      <link>http://localhost:1313/tags/semper/</link>
+      <link>https://nibelung.net/tags/semper/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/semper/</guid>
+      <guid>https://nibelung.net/tags/semper/</guid>
       <description></description>
     </item>
     <item>
       <title>Strauss</title>
-      <link>http://localhost:1313/tags/strauss/</link>
+      <link>https://nibelung.net/tags/strauss/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/strauss/</guid>
+      <guid>https://nibelung.net/tags/strauss/</guid>
       <description></description>
     </item>
     <item>
       <title>Symphony</title>
-      <link>http://localhost:1313/tags/symphony/</link>
+      <link>https://nibelung.net/tags/symphony/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/symphony/</guid>
+      <guid>https://nibelung.net/tags/symphony/</guid>
       <description></description>
     </item>
   </channel>
